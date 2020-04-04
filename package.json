@@ -1,12 +1,16 @@
 {
-  "name": "socket-chat-example",
-  "version": "0.0.1",
-  "description": "my first socket.io app",
+  "name": "chatrenoca",
+  "version": "0.0.2",
+  "description": "Chat para el portfolio de trabajo https://renoca.ml",
   "dependencies": {
     "express": "^4.15.2",
+    "mysql": "^2.18.1",
     "socket.io": "^1.7.3"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
