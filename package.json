@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Chat para el portfolio de trabajo https://renoca.ml",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "mysql": "^2.18.1",
     "socket.io": "^1.7.3"
   },
